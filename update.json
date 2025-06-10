@@ -1,6 +1,6 @@
 {
-    "latest_version_code": 60,
-    "apk_url": "https://github.com/lenier522/update/raw/main/NextChat_1.3.7.apk",
-    "changelog": "1-Se agregó un Onboarding al Inicio. 2-Se cambió el apartado de crear un Perfil para Inicio después del Login. Entre otras cosas."
+    "latest_version_code": 75,
+    "apk_url": "https://github.com/lenier522/update/raw/main/NextChat_1.4.3.apk",
+    "changelog": "1.Se agregó fecha de los mensajes en los Chat. 2. Se agregó botón para bajar a lo último del chat. 3. Se agregó la opción de responder los mensajes. 4. Se agregó el Canal de la App. 5. Se corrigieron errores."
   }
   
