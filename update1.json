@@ -1,7 +1,7 @@
 {
-  "version_code": 2,              // Código interno de versión (incremental)
-  "version_name": "1.1.0",        // Cadena legible de versión
-  "apk_url": "https://.../app-v1.1.0.apk",  
+  "version_code": 101,              // Código interno de versión (incremental)
+  "version_name": "1.1.6",        // Cadena legible de versión
+  "apk_url": "https://github.com/lenier522/update/raw/main/NextChat_1.4.3.apk",  
   "release_notes": [              // Lista de novedades que mostrarás en el diálogo
     "✅ Se corrigió el bug de inicio de sesión",
     "🆕 Nueva sección de perfil de usuario",
