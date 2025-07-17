@@ -1,0 +1,10 @@
+{
+  "version_code": 2,              // Código interno de versión (incremental)
+  "version_name": "1.1.0",        // Cadena legible de versión
+  "apk_url": "https://.../app-v1.1.0.apk",  
+  "release_notes": [              // Lista de novedades que mostrarás en el diálogo
+    "✅ Se corrigió el bug de inicio de sesión",
+    "🆕 Nueva sección de perfil de usuario",
+    "⚡️ Mejoras de rendimiento en la carga de imágenes"
+  ]
+}
